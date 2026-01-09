@@ -1,0 +1,17 @@
+@NDStsu41
+---------------Admin------------
+https://491934530980.signin.aws.amazon.com/console
+admin
+@ADMtsu41
+---------------Paula----------------
+https://491934530980.signin.aws.amazon.com/console
+Paula
+@PAUtsu41
+---------------Julian--------------
+https://491934530980.signin.aws.amazon.com/console
+Julian
+@JULtsu41
+
+DevOps
+ETL
+MLOps
